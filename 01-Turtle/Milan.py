@@ -1,3 +1,5 @@
+#loop
+
 import turtle
 
 for x in range(4):
